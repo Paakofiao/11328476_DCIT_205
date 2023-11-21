@@ -1,0 +1,25 @@
+.navigation {
+     background-color: rgba(92, 159, 193, 0.629);
+    overflow:hidden ;
+}
+
+.navigation ul{
+    background-color:rgba(92, 159, 193, 0.629);
+     float: right;
+    display: flex;
+    list-style: none;
+    font-size: medium;
+    font-style: oblique;
+    gap: 20px;
+    padding: 30px;
+    text-decoration: none;
+}
+
+li a{
+    text-decoration: none;
+}
+
+.logo{
+    position: relative;
+    top: 18px;
+}
