@@ -18,15 +18,23 @@ learned how to properly use elments and classes and apply Css to my work.
 
 # Screenshots
 
+![Screenshot (4)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/538dd761-6fc1-4f29-8a82-248db28cb620)
 
-![Screenshot (2)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/8a53381e-60ef-4426-8463-c1dea5120e50)
-![Screenshot (11)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/fcfd621a-0097-422c-8a01-a1fa14d7541a)
-![Screenshot (10)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/cbb4818a-3b8d-4e47-861b-3c618434506d)
-![Screenshot (9)](https://github.com/Paakofiao/11328476_DCIT_205/assets/1514112![Screenshot (6)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/1ffdb77e-9037-45fa-af46-dbca0721b5a4)![Screenshot (5)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/f37b1f1f-f![Screenshot (4)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/9f40ad2b-0901-41f1-9311-ac67ce7716e0)![Screenshot (3)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/8bdce1a5-d084-4d6a-9e6e-3542a7f41e61)
+![Screenshot (5)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/ede04cd2-3ea0-4870-8542-8c351c8f2867)
 
-893-4e8c-b05b-165adedc1e6c)
+![Screenshot (6)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/0abf330b-8eb7-42b8-8461-3e454c4b63f6)
 
-1![![Screenshot (7)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/c4dc0871-7c02-420d-a17f-3da47f1bac3b)
-Screenshot (8)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/f2f836d4-b1f9-4a36-b814-e7443b96b180)
-2![Screenshot (1)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/6545f742-f3b2-4701-84ef-40d02bf0422e)
-/5802fc8b-1f2f-432d-bc65-2fb05d123bac)
+![Screenshot (7)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/ca6ce9cb-ea9a-4bb1-9f12-a49872644105)
+
+![Screenshot (8)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/8407576e-b1bc-4a26-a1a1-561fc945ad5b)
+![Screenshot (1)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/456561a3-6051-4ce6-a543-231683ab4b73)
+
+![Screenshot (9)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/af2c7332-76d1-419e-ac0c-cc4829cf1f78)
+
+![Screenshot (10)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/1d9bf1c0-0343-4f57-8905-6a0e496b09e6)
+
+![Screenshot (11)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/077df639-c1f7-48d7-a025-4390b16697af)
+
+![Screenshot (2)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/0e5c6b4e-2417-4153-8584-be3015058076)
+
+![Screenshot (3)](https://github.com/Paakofiao/11328476_DCIT_205/assets/151411212/ff51d782-0e5d-45ad-9833-5cb1b6745ec4)
