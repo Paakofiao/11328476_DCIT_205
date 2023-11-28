@@ -1,14 +1,24 @@
+*{
+    background-color: #e6d5bb;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif; 
+    /*background: transparent;*/  
+    }
+
+
 .navigation {
-     background-color: rgba(92, 159, 193, 0.629);
+    
     overflow:hidden ;
+   
 }
 
 .navigation ul{
-    background-color:rgba(92, 159, 193, 0.629);
+    
      float: right;
     display: flex;
     list-style: none;
-    font-size: medium;
+    font-size: 15px;
     font-style: oblique;
     gap: 20px;
     padding: 30px;
@@ -17,9 +27,460 @@
 
 li a{
     text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
 
+li a:hover{
+    color: rgba(92, 159, 193, 0.629);
+    transition: .4s ease;
+
+}
 .logo{
     position: relative;
     top: 18px;
+    mix-blend-mode: multiply;
 }
+.list1{
+position: relative;
+right: -200px;
+top:-25px;
+}
+
+.container{
+   width: 350px;
+   height:auto;
+   color: black;
+    position: relative;
+    text-align: center;
+    border-color: black;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    padding: 30px;
+    margin-top: 8%;
+}
+
+.container .card{
+    width: 300px;
+    position: absolute;
+    height: 400px;
+    background: white;
+    margin: 30px 10px;
+    top: 150px;
+    padding: 20px 15px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0.5px 10px gray;
+    transition: 0.3s ease-in-out;
+    margin-top: 5%;
+    background-color:white;
+}
+
+.head{
+    background-color: #fff;
+    width: 300px;
+    height: 50px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.container2{
+    width: 350px;
+    height:auto;
+    color: black;
+     position: relative;
+     text-align: center;
+     border-color: black;
+     box-sizing: border-box;
+     flex-wrap: wrap;
+     padding: 30px;
+     margin-top: 8%;
+     right: -500px;
+     top: -670px;
+ }
+ 
+ .container2 .card2{
+     width: 300px;
+     position: absolute;
+     height: 400px;
+     background: white;
+     margin: 30px 10px;
+     top: 650px;
+     padding: 20px 15px;
+     display: flex;
+     flex-direction: column;
+     box-shadow: 0.5px 10px gray;
+     transition: 0.3s ease-in-out;
+     margin-top: 5%;
+ }
+ 
+ .head2{
+     background-color: #fff;
+     width: 300px;
+     height: 50px;
+     text-align: center;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+ }
+
+ .container3{
+    width: 350px;
+    height: 400px;
+    color: black;
+     position: relative;
+     text-align: center;
+     border-color: black;
+     box-sizing: border-box;
+     flex-wrap: wrap;
+     padding: 30px;
+     margin-top: 8%;
+     right: -1000px;
+     top: -1335px;
+ }
+ 
+ .container3 .card3{
+     width: 300px;
+     position: absolute;
+     height: 400px;
+     background: white;
+     margin: 30px 10px;
+     top: 1135px;
+     padding: 20px 15px;
+     display: flex;
+     flex-direction: column;
+     box-shadow: 0.5px 10px gray;
+     transition: 0.3s ease-in-out;
+     margin-top: 5%;
+ }
+ 
+ .head3{
+     background-color: #fff;
+     width: 300px;
+     height: 50px;
+     text-align: center;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+ }
+
+.list a:hover{
+    color: rgba(92, 159, 193, 0.629);;
+    transition: .4s ease;
+    overflow: hidden;
+}
+
+.list2{
+    position:relative;
+    right:-600px;
+    top: -50px;
+    color: black;
+}   
+ 
+.container a{
+    display: inline-block;
+    font-size: 14px;
+    border: 2px solid; 
+}
+
+.container a:hover{
+    color: rgba(92, 159, 193, 0.629);
+}
+
+.container2 a:hover{
+    color: rgba(92, 159, 193, 0.629);
+}
+
+.container3 a:hover{
+    color: rgba(92, 159, 193, 0.629);
+}
+
+
+.Shortcontent{
+    font-weight: bold;
+   text-align: center;
+    
+
+
+}
+.Shortcontent .paragraph{
+   
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.Shortcontent .paragraph1{
+    font-size: 15px;
+}
+
+.webdesigncard{
+    width: 250px;
+    position: absolute;
+    top: 300px;
+    left: 180px;
+    border:  solid #050101;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    }
+
+    .webdesigncard a, .msoffice a, .logicsys a, .architecture a{
+        color: #2f465d;
+        text-decoration: none;
+    }
+
+    .webimage{
+        width: 250px;
+    }
+
+
+    .msoffice{
+    width: 270px;
+    position: absolute;
+    top: 300px;
+    left: 950px;
+    border:  solid #050101;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    }
+
+    .officeimage{
+        width: 270px;   
+    }
+
+    .logicsys{
+        width: 250px;
+        position: absolute;
+        top: 700px;
+        left: 200px;
+        border:  solid #050101;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    .logicimage{
+        width: 250px;
+        height: 200px;
+    }
+
+    .architecture{
+        width: 250px;
+        position: absolute;
+        top: 700px;
+        left: 980px;
+        border:  solid #050101;
+        border-radius: 10px;
+        margin-bottom: 15px;
+    }
+
+    .architectureimage{
+        width: 250px;
+    }
+
+.event{
+    font-weight: bold;
+    font-size: 30px;
+    position: absolute;
+    top: 400px;
+    left: 500px;
+font-family: sans-serif, system;
+
+}
+
+.button{
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 500px;
+    left: 742px;
+}
+
+.button a{
+    color: black;
+    text-decoration: none;
+}
+
+.button a:hover{
+    color: rgba(92, 159, 193, 0.629) ;
+    transition: .3s ease;
+}
+
+
+.one{
+  pointer-events: relative;
+  min-height: 100vh;
+  padding: 50px 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+  
+}
+
+.one .content10{
+    max-width: 800px;
+    text-align: center;
+}
+
+.one .content10 h2{
+    font-size: 36px;
+    font-weight: 500;
+    color: black;
+}
+
+.one .content10 p{
+    font-weight: 300;
+    color: black;
+}
+
+.container100{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+.container100 .contactinfo{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.container100 .contactinfo .box{
+position: relative;
+padding: 20px 0;
+display: flex;
+
+}
+
+
+.container100 .contactinfo .box .noticon{
+min-width: 60px;
+height: 60px;
+display: flex;
+justify-content: center;
+align-items: center;
+ border-radius: 50%;
+ font-size: 22px;
+
+}
+
+.container100 .contactinfo .box .nottext{
+    display: flex;
+    margin-left: 20px;
+    font-size: 16px;
+    color: black;
+    flex-direction: column;
+    font-weight: 300;
+}
+
+
+.container100 .contactinfo .box .nottext h3{
+    font-weight: 500;
+    color: blue;
+
+}
+
+.contactForm{
+    width: 40%;
+    padding: 40px;
+    background: white;
+}
+
+.contactForm h2{
+    font-size: 30px;
+    color: black;
+    font-weight: 500;
+
+}
+
+.contactForm .inputBOX{
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.contactForm .inputBOX input{
+    width: 100%;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid #333;
+    outline: none;
+}
+
+.contactForm .inputBOX input,
+.contactForm .inputBOX textarea{
+width: 100%;
+padding: 5px 0;
+font-size: 16px;
+margin: 10px 0;
+border: none;
+border-bottom: 2px solid #333;
+outline: none;
+resize: none;
+
+}
+
+.contactForm .inputBOX span{
+    position: absolute;
+    left: 0;
+    padding: 5px 0;
+    font-size: 16px;
+    margin: 10px 0;
+    pointer-events: none;
+    transition: .5s;
+    color: #666;
+    
+}
+.contactForm .inputBOX input:focus ~ span,
+.contactForm .inputBOX input:valid ~ span,
+.contactForm .inputBOX textarea:focus ~ span,
+.contactForm .inputBOX textarea:focus ~ span{
+    color: #e91e63;
+    font-size: 12px;
+   transform: translateY(-20px)
+}
+
+
+
+.aboutthat{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 15%;
+}
+
+.Undergraduatecontent a{
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 500px;
+    left: 742px;
+    text-decoration: none;
+    color: black;
+}
+
+.Undergraduatecontent a:hover{
+    color: rgba(92, 159, 193, 0.629) ;
+    transition: .3s ease;
+}
+
+.course .subjects100 {
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    top: 500px;
+    left: 742px;
+    text-decoration: none;
+    color: black;
+}
+
